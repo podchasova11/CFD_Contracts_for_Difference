@@ -1,15 +1,7 @@
-CFD (Contracts for Difference) — это финансовый инструмент, который позволяет спекулировать на движении цены актива без необходимости владеть им напрямую.
+- As a broker, recognised for technology-driven, straightforward user experience, high-quality client support and value for money. 
+- With technology at the heart of everything we do, offer smart features such as real-time market data, advanced charting tools, and a responsive mobile application for trading on the move.
+- provide retail traders with seamless access to global financial instruments, providing 5,000+ markets across multiple asset classes.
 
-Ключевые моменты:
-- Как работает: вы заключаете контракт с брокером на разницу между ценой входа и выхода. Если цена растёт, вы зарабатываете, если падает — теряете.
-- Виды активов: CFD на акции, индексы, валюты (FX), криптовалюты, товары и другие инструменты.
-- Преимущества:
-  - Нет необходимости владеть базовым активом.
-  - Возможность держать позиции как в рост, так и в падение рынка.
-  - Мгновенная торговля и леверидж (покупка на заемные средства) в зависимости от регуляций брокера.
-- Риски:
-  - Леверидж усиливает как прибыль, так и убытки.
-  - Комиссии, свопы overnight и маржинальные требования.
-  - Риск контрагента зависит от репутации брокера (регуляции и надёжность).
-- Лидер по особенностям: торговля CFD часто включает использование маржинального счёта, возможность установки стоп-ордеров и автоматических стратегий, но требует внимательного управления рисками.
+ 
 
+- We are always seeking new ways to help our clients trade with confidence and make better informed decisions, offering the latest technology, insightful educational resources and competitive pricing in an ever-evolving trading landscape. 
